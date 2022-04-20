@@ -1,5 +1,7 @@
 # COVID-19: Evolution of cases in Spain by region
-![Alt text](./MapaImage.PNG?raw=true "Map")
+
+![map affected coronavirus](./content/MapImage.png "affected coronavirus")
+
 # Map of COVID-19 cases in Spain by region.
 
 The map graphically represents the cases of COVID-19 that have been reported in each of the Autonomous Communities of Spain. 
