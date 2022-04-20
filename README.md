@@ -95,8 +95,8 @@ document
 
 # March 2020
 
-![map affected coronavirus](./MapaImage.png "affected coronavirus")
+![map affected coronavirus](./MapaImage0.png "affected coronavirus")
 
 # April 2022
 
-![map affected coronavirus](./MapaImage0.png "affected coronavirus")
+![map affected coronavirus](./MapaImage.png "affected coronavirus")
