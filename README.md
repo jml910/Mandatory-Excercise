@@ -1,6 +1,6 @@
 # COVID-19: Evolution of cases in Spain by region
 
-![map affected coronavirus](./content/MapImage.png "affected coronavirus")
+![map affected coronavirus](./MapaImage.png "affected coronavirus")
 
 # Map of COVID-19 cases in Spain by region.
 
