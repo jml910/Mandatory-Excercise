@@ -91,3 +91,12 @@ document
     updateChart(april2022data);
   });
 ```
+# The result obtained is to obtain a graphical comparison of both stages of COVID-19 in these two representations:
+
+# March 2020
+
+![map affected coronavirus](./MapaImage.png "affected coronavirus")
+
+# April 2022
+
+![map affected coronavirus](./MapaImage0.png "affected coronavirus")
