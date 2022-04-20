@@ -91,7 +91,7 @@ document
     updateChart(april2022data);
   });
 ```
-# The result obtained is to obtain a graphical comparison of both stages of COVID-19 in these two representations:
+# The result obtained is to be able to make a graphic comparison of both stages of COVID-19, as can be seen through these two representations:
 
 # March 2020
 
