@@ -1,16 +1,6 @@
-# COVID-19: Evolution of cases in Spain by region
+# COVID-19: Evolución de coronavirus por comunidad autónoma
 
-![map affected coronavirus](./MapaImage.png "affected coronavirus")
-
-# Map of COVID-19 cases in Spain by region.
-
-The map graphically represents the cases of COVID-19 that have been reported in each of the Autonomous Communities of Spain. 
-
-If we click on the "March 2020" button we will obtain the representation of the cases reported as of March 13, 2020. If we click on the "April 2022" button, the cases reported a few days ago are represented, specifically with data updated as of April 17. 
-
-The data have been obtained from the website of the Government of Spain.
-
-# Previous installation steps
+# Pasos previos
 
 ```bash
 npm install
